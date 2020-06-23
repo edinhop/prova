@@ -1,0 +1,12 @@
+.container-conteudo{
+    max-width: 1000px;
+    max-height: 1000px;
+    margin-top: 95px;
+    margin-left: 500px;
+
+}
+.card{
+    margin-bottom: 50px;
+    max-width: 50%;
+    margin-left: 500px;
+}

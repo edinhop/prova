@@ -1,11 +1,15 @@
 import React from 'react';
-import Primeiro from './Primeiro';
+import './App.css';
+import Routes from './componentes/Routes';
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <Primeiro />
-    </div>
+    
+      <Routes />
+      
   );
 }
 
